@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641685299474",
+    "firebase_url": "https://epassauth-default-rtdb.firebaseio.com",
+    "project_id": "epassauth",
+    "storage_bucket": "epassauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641685299474:android:b71723bd38922d6da313cb",
+        "android_client_info": {
+          "package_name": "com.example.e_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641685299474-4n132ku461cd36dv6i1vn9vn08sk787d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgjwmt_hEGayxeH-IiEISYjC4F7YRS88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641685299474-4n132ku461cd36dv6i1vn9vn08sk787d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

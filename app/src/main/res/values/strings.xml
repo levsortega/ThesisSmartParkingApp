@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Parking</string>
+    <string name="please_loign">Please loign.</string>
+    <string name="email">Email</string>
+    <string name="pasword">Pasword</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account_sign_up">No account? Sign up</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="reg_email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="please_enter_your_details">Please enter your details.</string>
+    <string name="i_d_number">I.D Number</string>
+    <string name="reg_password">Password</string>
+    <string name="logout">logout</string>
+    <string name="enter_your_new_password">Enter your new password</string>
+    <string name="new_password">New password</string>
+    <string name="reset">reset</string>
+    <string name="enter_your_email">We will send you an instruction on how to reset your password.<br> Please confirm your email</br></string>
+    <string name="confim_password">Confim password</string>
+    <string name="logout_out">LOGOUT</string>
+    <string name="first_name_view">First Name:</string>
+    <string name="last_namev">Last Name:</string>
+    <string name="i_d_no">I.D No.:</string>
+    <string name="emailv">Email:</string>
+    <string name="i_d_noreg">I.D No.</string>
+    <string name="id_no_reg">ID No.</string>
+    <string name="password" />
+    <string name="password_ulit">Password</string>
+    <string name="send">SEND</string>
+    <string name="todo1">TODO</string>
+
+</resources>
